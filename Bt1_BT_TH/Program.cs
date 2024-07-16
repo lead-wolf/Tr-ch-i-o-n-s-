@@ -12,7 +12,7 @@ namespace Bt1_BT_TH
         {
             System.Console.WriteLine("================Chuong trinh doan so==================");
                 Random random = new Random();
-            int targetNumber = 123;
+            int targetNumber = random.Next(100, 999);
             string targetString = targetNumber.ToString();
             int attempt = 1, MAXGUESS = 7;
             string quess, feedback = "";
