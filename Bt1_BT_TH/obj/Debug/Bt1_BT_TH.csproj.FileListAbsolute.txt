@@ -1,0 +1,7 @@
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\bin\Debug\Bt1_BT_TH.exe.config
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\bin\Debug\Bt1_BT_TH.exe
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\bin\Debug\Bt1_BT_TH.pdb
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\obj\Debug\Bt1_BT_TH.csproj.AssemblyReference.cache
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\obj\Debug\Bt1_BT_TH.csproj.CoreCompileInputs.cache
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\obj\Debug\Bt1_BT_TH.exe
+D:\HUTECH_UNIVERSITY\CMP170 Lập trình trên môi trường windows\Bt1_BT_TH\Bt1_BT_TH\obj\Debug\Bt1_BT_TH.pdb
